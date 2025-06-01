@@ -9,17 +9,21 @@ Assumption 1: network speed is at least 100Mbps.
 
 [X] Setup separate python environment
 
--- not required as ROS will take care of this... 
+- not required as ROS will take care of this... 
 
 [X] install ROS, takes ~10 minutes (assuming connection speeds of at least 100Mbps)
 
--- https://docs.ros.org/en/kilted/Installation.html, selected kilt as it was the latest release.
+- https://docs.ros.org/en/kilted/Installation.html, selected kilt as it was the latest release.
 
--- https://docs.ros.org/en/kilted/Installation/Ubuntu-Install-Debs.html
+- https://docs.ros.org/en/kilted/Installation/Ubuntu-Install-Debs.html
+  
+- - For Desktop install only the below line is required. The base packages are installed with it (the bare bones...
+    
+        sudo apt install ros-kilted-desktop
 
 [X] install Gazebo, takes ~5 minutes
 
--- https://gazebosim.org/docs/latest/install_ubuntu/
+- - https://gazebosim.org/docs/latest/install_ubuntu/
 
 # References worth knowing
 
