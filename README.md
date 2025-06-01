@@ -23,7 +23,9 @@ Assumption 1: network speed is at least 100Mbps.
 
 [X] install Gazebo, takes ~5 minutes
 
-- - https://gazebosim.org/docs/latest/install_ubuntu/
+- https://gazebosim.org/docs/latest/install_ubuntu/
+
+  - I installed Gazebo Harmonic, seemed to work fine. 
 
 # References worth knowing
 
