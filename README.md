@@ -1,7 +1,7 @@
 # Robotics-intro
 Introduction to setting up and working through simple Gazebo and ROS based simulations
 
-# Installation: 
+# Installation
 
 System - Ubuntu 24.04, plenty of RAM and VRAM.
 
