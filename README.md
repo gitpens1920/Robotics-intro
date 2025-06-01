@@ -17,7 +17,7 @@ Assumption 1: network speed is at least 100Mbps.
 
 - https://docs.ros.org/en/kilted/Installation/Ubuntu-Install-Debs.html
   
-- - For Desktop install only the below line is required. The base packages are installed with it (the bare bones...
+  - For Desktop install only the below line is required. The base packages are installed with it (the bare bones...
     
         sudo apt install ros-kilted-desktop
 
