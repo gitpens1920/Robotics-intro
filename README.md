@@ -21,7 +21,7 @@ Assumption 1: network speed is at least 100Mbps.
 
 -- https://gazebosim.org/docs/latest/install_ubuntu/
 
-## References worth knowing
+# References worth knowing
 
 https://docs.ros.org/en/kilted/Related-Projects/Nvidia-ROS2-Projects.html
 
